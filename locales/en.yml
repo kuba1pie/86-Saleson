@@ -1,0 +1,22 @@
+button:
+  about: About
+  back: Back
+  go: GO
+  home: Home
+  modal: Show Modal
+  search: Search
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+footer:
+  info: Kuba Pietruszewski 2022
+form:
+  dateTo: To
+  label: 'Search name:'
+  placeholder: dd.mm.yyyy
+  startDate: From
+  state: 'Select the state:'
+not-found: Not found
+table:
+  lastname: Lastname
+  name: Name
+  total: Total

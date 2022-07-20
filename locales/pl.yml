@@ -1,0 +1,22 @@
+button:
+  about: O nas
+  back: Wróć
+  go: WEJDŹ
+  home: Strona główna
+  modal: Pokaż Modal
+  search: Szukaj
+  toggle_dark: Ustaw tryb nocny
+  toggle_langs: Zmień język
+footer:
+  info: Kuba Pietruszewski 2022
+form:
+  dateTo: Do
+  label: 'Wyszukaj nazwisko:'
+  placeholder: dd.mm.rrrr
+  startDate: Od
+  state: Wybierz województwo
+not-found: Nie znaleziono
+table:
+  lastname: Nazwisko
+  name: Imię
+  total: Wszystkich
