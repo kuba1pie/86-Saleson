@@ -20,11 +20,8 @@ const toggleLocales = () => {
         <div i-carbon-language />
       </a>
 
-      <a
-        class="icon-btn mx-2" rel="noreferrer"
-        href="https://github.com/kuba1pie/85-Cepiker/commit/5b231b29bc27796c1eee7399f3047258845c19d3" target="_blank"
-        title="GitHub"
-      >
+      <a class="icon-btn mx-2" rel="noreferrer" href="https://62d75147bd3cd9474ad8e69d--86-saleson.netlify.app/"
+        target="_blank" title="GitHub">
         <div i-carbon-logo-github />
       </a>
     </nav>
