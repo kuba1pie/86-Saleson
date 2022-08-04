@@ -25,4 +25,10 @@ describe('Counter.vue', () => {
 
     expect(wrapper.text()).toContain('0')
   })
+
+  it('should render', () => {
+    const wrapper = mount(Counter, { props: { initial: 10 } })
+    expect(wrapper.text()).toContain('10')
+    expect(wrapper.html()).toMatchSnapshot()
+  })
 })
